@@ -79,3 +79,4 @@ brew install node
 php artisan migrate
 php artisan db:seed
 ```
+flat Earth!
